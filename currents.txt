@@ -1,0 +1,21 @@
+day = 1
+dirtiness = 0
+food = 50
+eaten_food = 0
+diapers = 2
+money = 100
+spent_money = 0
+cat_food = 30
+children_food = 20
+fur_coats = 0
+eaten_cat_food = 0
+rand_is_done = 1
+husband_happiness = 80
+husband_feed = 30
+wife_happiness = 80
+wife_feed = 30
+cat_happiness = 65
+cat_feed = 20
+child_happiness = 40
+child_feed = 15
+ 
